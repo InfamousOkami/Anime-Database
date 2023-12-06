@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .dynamic-width {
+    @apply w-[100px]; /* Set a default value */
+  }
+}
