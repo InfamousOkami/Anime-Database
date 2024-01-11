@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import Card from "./Card";
 import { useSearchParams } from "react-router-dom";
 import Pagination from "./Pagination";
 import List from "./List";
